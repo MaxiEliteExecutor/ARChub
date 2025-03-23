@@ -15,7 +15,7 @@ ARC GUI is an advanced UI library designed for Roblox, offering a modern and cus
 To use ARC GUI in your Roblox project, insert the script into your game and require it.
 
 ```lua
-local ARCGUI = require(game:GetService("ReplicatedStorage").ARC_GUI)
+local ARCGUI = loadstring()
 ```
 
 ## Getting Started
