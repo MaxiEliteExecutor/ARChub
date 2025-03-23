@@ -108,7 +108,3 @@ By default, pressing `RightShift` toggles the UI visibility. This can be customi
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
-## Credits
-Developed by [Your Name].
-
