@@ -528,5 +528,3 @@ function ARCGUI:CreateWindow(config)
 
     return window
 end
-
-return ARCGUI
